@@ -1,6 +1,6 @@
 # Sales Analysis Using SQL (Aggregations)
 
-This project involves analyzing sales trends using SQL aggregate functions such as `SUM`, `COUNT`, `AVG`, `MIN`, `MAX` on an online sales dataset.
+This task involves analyzing sales trends using SQL aggregate functions such as `SUM`, `COUNT`, `AVG`, `MIN`, `MAX` on an online sales dataset.
 
 ## Files Included
 
